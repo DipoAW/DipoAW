@@ -23,4 +23,4 @@ I write about careers: breaking into technology & cyber security, and the things
 ### 📫 Find me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdulwahabwilliams/)
-- 🐙 [GitHub](https://github.com/DipoAW)
+- 🐙 [GitHub](https://github.com/dipoaw)

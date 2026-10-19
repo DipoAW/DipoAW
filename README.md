@@ -1,3 +1,5 @@
+<img src="./smrt.png" alt="Ralph Wiggum typing on a computer showing Claude" align="right" width="300">
+
 ```
   ░█████   ░██                   ░██ ░██
  ░██  ░██  ░██                   ░██
@@ -17,8 +19,6 @@
 ░███    ░███ ░██ ░██ ░██ ░██ ░██   ░██  ░██   ░██   ░██        ░██
 ░██      ░██ ░██ ░██ ░██ ░██  ░█████░██ ░██   ░██   ░██  ░███████
 ```
-
-![Ralph Wiggum typing on a computer showing Claude](./smrt.png)
 
 # Hi, I'm Oladipo 👋🏽
 

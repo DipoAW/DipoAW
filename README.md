@@ -2,7 +2,7 @@
 
 # Hi, I'm Oladipo 👋🏽
 
-Cyber Security Engineer @ [Numan](https://www.numan.com/). Previously [Sky UK](https://www.sky.com/).
+Cyber Security Engineer at [Numan](https://www.numan.com/). Previously: [Sky UK](https://www.sky.com/).
 
 I live in Greater London, UK. I'm a curious person who loves learning new things and talking about careers.
 
